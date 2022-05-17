@@ -1,0 +1,30 @@
+{
+  "name": "gtd-test",
+  "version": "1.0.0",
+  "description": "Gtd test engine",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc ",
+    "compile-watch": "tsc -w",
+    "test": "node out/test/TestRunner.js",
+    "version": "node version.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrck02/GTD-Test.git"
+  },
+  "keywords": [
+    "test",
+    "test-engine"
+  ],
+  "author": "akrck02",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/akrck02/GTD-Test/issues"
+  },
+  "homepage": "https://github.com/akrck02/GTD-Test#readme",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
