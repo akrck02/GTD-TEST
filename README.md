@@ -3,10 +3,7 @@
  🌐 | This repo is meant to share resources for automatic-test creating in software.
 
 ## Languages  
-- Java
-- Javascript 
 - Typescript 
-- Php
 
 ## Technologies used
 - Selenium > webscrapping based tests
@@ -20,5 +17,5 @@
 - <a href="github.com/akrck02">Akrck02</a>
 
 ## Supporting my free software: 
-☕ | _You buy me a coffee <a href="">here</a>_<br>
-💻 | _or became my  <a href="">patreon supporter</a>_<br>
+☕ | _You buy me a coffee <a href="https://www.patreon.com/akrck02">here</a>_<br>
+💻 | _or became my  <a href="https://www.patreon.com/akrck02">patreon supporter</a>_<br>
