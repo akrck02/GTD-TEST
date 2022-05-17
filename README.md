@@ -5,10 +5,6 @@
 ## Languages  
 - Typescript 
 
-## Technologies used
-- Selenium > webscrapping based tests
-- Junit > Java tests
-
 ## USING THIS CODE: 
 > _You can use this code for free in presonal/bussines projects._ <br>
 > _You can edit this code as well._ <br>
